@@ -58,6 +58,7 @@ The dataset contains environmental and agricultural data, including:
 | Metric | Value (Example) |
 
 |--------|------------------|
+
 | Mean Absolute Error (MAE) | 3.25 |
 
 | R² Score | 0.88 |
@@ -91,6 +92,7 @@ source venv/bin/activate  # macOS/Linux
 
 # Install dependencies
 pip install -r requirements.txt
+```
 
 👨‍💻 Author
 
