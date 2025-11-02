@@ -98,4 +98,5 @@ pip install -r requirements.txt
 
 [Shonko]
 AI & Machine Learning Student — PLP Academy
-#AI_Assignment | October 2025
+
+## AI_Assignment | October 2025
